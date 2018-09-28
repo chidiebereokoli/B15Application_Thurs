@@ -9,6 +9,9 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+/**
+ *  javadoc comment pushed
+ */
 public class MainActivity extends AppCompatActivity {
 //Test pushing
     //Test pushing
